@@ -3,6 +3,7 @@
 I am a Software Engineer and Data Analyst Trainee with a Master’s degree (GPA 4.0) and a passion for building intentional, data-informed solutions. After graduating from TripleTen’s Software Engineering program, I’ve expanded my focus into the world of Big Data and Analytics through Revature, where I translate complex logic into actionable insights.
 
 💻 Full-Stack: I build scalable web applications using the JavaScript/TypeScript ecosystem (React, Node.js, Express, MongoDB).
+
 📊 Data & Analytics: I’m currently focused on Python (Pandas), SQL (CTEs, Window Functions), and the Big Data stack (Hadoop, Hive, Spark).
 
 - 💚 I’m interested in sustainable web development and design
